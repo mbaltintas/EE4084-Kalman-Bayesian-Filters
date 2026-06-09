@@ -1,9 +1,0 @@
-Extract this ZIP to C:\Users\mbura\OneDrive\Masaüstü, then run these commands in CMD:
-
-cd /d "C:\Users\mbura\OneDrive\Masaüstü\EE4084-Kalman-Bayesian-Filters"
-git init
-git branch -M main
-git remote add origin https://github.com/mbaltintas/EE4084-Kalman-Bayesian-Filters.git
-git add .
-git commit -m "Add EE4084 project files"
-git push -u origin main
